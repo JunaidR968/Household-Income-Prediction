@@ -1,2 +1,2 @@
-# Income-House-Prediction
-This repo contains a Machine Learning model on predicting House buying capabilities as per a persons income.
+#Household Income Prediction
+The goal of this ML model is to predict whether an individual earns more than 50K per year based on personal and professional features.
